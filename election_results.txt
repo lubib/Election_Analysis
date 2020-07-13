@@ -1,0 +1,19 @@
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+ Arapahoe: 114.36743835049539 (422,829)/n Arapahoe: 125.32843220785965 (463,353)/n Arapahoe: 116.96649545185294 (432,438)/n-------------------------
+Largest County Turnout: Arapahoe
+------------------------
+
+Charles Casper Stockham: 23.04854332167558 (85,213)
+Diana DeGette: 73.81224794501652 (272,892)
+Raymon Anthony Doane: 3.1392087333079077 (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+The county with the largest turnout
