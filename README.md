@@ -9,4 +9,5 @@ Candidate Votes were devided as following
 - Charles Casper Stockham 23% (85,213)
 - Diana DeGette 73.8% (272,892)
 - Reymon Anthony Doane 3.1% (11,606)
+
 Therefore the Winner is Diana DeGrette!
